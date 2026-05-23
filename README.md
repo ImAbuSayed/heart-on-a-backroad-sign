@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/heart-on-a-backroad-sign/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Heart on a Backroad Sign](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heart-on-a-backroad-sign/) |
+| **Get License** | [Music Rights & Licensing for Heart on a Backroad Sign](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heart-on-a-backroad-sign/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `e7b0a98c92878b64356eee455633b1323d33da0c02c2066f8325563799df69c9` |
 | **Timestamp** | May 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

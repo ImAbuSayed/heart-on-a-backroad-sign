@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Heart on a Backroad Sign
+
+This log tracks the cryptographic history and versioning for the song **Heart on a Backroad Sign** (heart-on-a-backroad-sign).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-24T05:34:44.568794 | `v1` | `e7b0a98c92878b64356eee455633b1323d33da0c02c2066f8325563799df69c9` | `676633fee64711691dd84c47d636f7c0af49277c57019940ff40ac98b0d02f82` | `2026-05-24_heart-on-a-backroad-sign-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
