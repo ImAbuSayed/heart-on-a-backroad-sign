@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/heart-on-a-backroad-sign/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Heart on a Backroad Sign](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heart-on-a-backroad-sign/) |
+| **Get License** | [Secure Licensing Rights for Heart on a Backroad Sign](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heart-on-a-backroad-sign/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Got my heart on a backroad sign, pointing straight to your door
+> I've been craving your touch like I never did before
+> Come and slide a little closer, let the engine fade
+> We can build our own heaven in the midnight shade
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
